@@ -1,0 +1,53 @@
+{
+    "name": "akiry-angular-extension-pack",
+    "displayName": "Akiry Angular Extension Pack",
+    "description": "Pack with Angular extensions used by Akiry Media development.",
+    "version": "0.0.1",
+    "publisher": "juninhocruz",
+    "icon": "angular-icon.png",
+    "galleryBanner": {
+        "color": "#0273D4",
+        "theme": "dark"
+    },
+    "license": "SEE LICENSE IN LICENSE.md",
+    "repository": "",
+    "engines": {
+        "vscode": "^1.26.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "keywords" : [
+        "Angular",
+        "Angular 2",
+        "Angular 4",
+        "Angular 5",
+        "Angular 6",
+        "Angular 7",
+        "angular.io"
+    ],
+    "extensionPack": [ 
+        "UVBrain.Angular2",
+        "johnpapa.Angular2",
+        "Angular.ng-template",
+        "1tontech.angular-material",
+        "steoates.autoimport",
+        "formulahendry.auto-rename-tag",
+        "formulahendry.auto-close-tag",
+        "abusaidm.html-snippets",
+        "NG-42.ng-fortytwo-vscode-extension",
+        "infinity1207.angular2-switcher",
+        "AngularDoc.angulardoc-vscode",
+        "SimonTest.simontest",
+        "EditorConfig.EditorConfig",
+        "GregorBiswanger.json2ts",
+        "MarinhoBrandao.Angular2Tests",
+        "msjsdiag.debugger-for-chrome",
+        "esbenp.prettier-vscode",
+        "eg2.tslint",
+        "christian-kohler.path-intellisense",
+        "rbbit.typescript-hero",
+        "stringham.move-ts",
+        "cyrilletuzi.angular-schematics"
+    ]
+}
