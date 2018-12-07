@@ -10,7 +10,7 @@
         "theme": "dark"
     },
     "license": "SEE LICENSE IN LICENSE.md",
-    "repository": "",
+    "repository": "https://github.com/juninhocruzg3/AkiryAngularExtensionPack",
     "engines": {
         "vscode": "^1.26.0"
     },

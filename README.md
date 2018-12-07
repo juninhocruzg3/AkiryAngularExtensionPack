@@ -1,7 +1,7 @@
 # Akiry Angular Extension Pack for VS Code
 
-[![Version]()]()
-[![Installs]()]()
+<!-- [![Version]()]()
+[![Installs]()]() -->
 
 Pack with Angular extensions used by Akiry Media development.
 
@@ -14,7 +14,7 @@ This project is based on [VS Code Angular Extension Pack](https://github.com/loi
 ### Recommended
 
 
-* [alexiv.vscode-angular2-files]() -
+<!-- * [alexiv.vscode-angular2-files]() -
 * [Angular.ng-template]() -
 * [christian-kohler.path-intellisense]() -
 * [eamodio.gitlens]() -
@@ -28,14 +28,14 @@ This project is based on [VS Code Angular Extension Pack](https://github.com/loi
 * [PeterJausovec.vscode-docker]() -
 * [steoates.autoimport]() -
 * [wayou.vscode-todo-highlight]() -
-* [formulahendry.auto-rename-tag]() - 
+* [formulahendry.auto-rename-tag]() -  -->
 
 ### Optional
 
 
-* [robertohuertasm.vscode-icons]() -
+<!-- * [robertohuertasm.vscode-icons]() -
 * [mrmlnc.vscode-scss]() -
-* [Zignd.html-css-class-completion]() -
+* [Zignd.html-css-class-completion]() - -->
 
 
 **Enjoy!**
