@@ -3,7 +3,7 @@ code --install-extension alexiv.vscode-angular2-files           # provide a VS C
 code --install-extension Angular.ng-template                    # Official Angular Language Service: provide navigation between HTML and TS on tag click
 code --install-extension christian-kohler.path-intellisense     # provide path autocomplete
 code --install-extension eamodio.gitlens                        # provide git file and line history
-code --install-extension eg2.tslint                             # provide warnings for TS lint delicts :P rs
+code --install-extension ms-vscode.vscode-typescript-tslint-plugin  # provide warnings for TS lint delicts :P rs
 code --install-extension robinbentley.sass-indented             # recognize SASS syntax and autocomplete
 code --install-extension glen-84.sass-lint                      # provide warnings for SASS lint delicts :P rs
 code --install-extension HookyQR.beautify                       # provide indentation for many languages

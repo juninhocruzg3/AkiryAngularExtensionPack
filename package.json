@@ -32,7 +32,7 @@
         "Angular.ng-template",
         "christian-kohler.path-intellisense",
         "eamodio.gitlens",
-        "eg2.tslint",
+        "ms-vscode.vscode-typescript-tslint-plugin",
         "robinbentley.sass-indented",
         "glen-84.sass-lint",
         "HookyQR.beautify",
