@@ -15,6 +15,5 @@ code --install-extension steoates.autoimport                    # provide autoim
 code --install-extension wayou.vscode-todo-highlight            # provide TODO and others highlight
 
 # Optional
-code --install-extension robertohuertasm.vscode-icons           # provide beautiful icons for VC Code
 code --install-extension mrmlnc.vscode-scss                     # provide variable recognization for SCSS only
 code --install-extension Zignd.html-css-class-completion        # provide class completion for CSS linked on only
