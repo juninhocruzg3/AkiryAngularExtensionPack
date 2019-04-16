@@ -2,7 +2,7 @@
     "name": "akiry-angular-extension-pack",
     "displayName": "Akiry Angular Extension Pack",
     "description": "Pack with Angular extensions used by Akiry Media development.",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "publisher": "juninhocruz",
     "icon": "angular-icon.png",
     "galleryBanner": {
